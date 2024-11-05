@@ -23,6 +23,9 @@
 .container__imagem {
     padding: 1em;
 }
+@media screen and (min-width: 1024px) {
+  /* Estilos para tablets */
+}
 
 .lista-menu {
     display: none;
